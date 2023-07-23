@@ -16,7 +16,27 @@ We can help you with hands-on coaching and project assistance for,
  • Simulation Tools
 
 
-We also offer in-person and online tutoring services.
+We also offer in-person and online tutoring services for the following courses.🎊🎉 🥳
+
+
+- ✨Embedded Systems Masterclass: Arduino/PIC/ESP from Basics to Advanced
+
+- ✨Raspberry Pi Masterclass using MATLAB
+
+- ✨Automate with Shell Scripts: A Comprehensive Linux Admin Course
+
+- ✨MATLAB for Beginners and Beyond: A Practical Programming Course
+
+- ✨Advanced MATLAB Techniques for Mathematical Problem Solving
+
+- ✨Python Fundamentals: Mastering the Basics of Programming
+
+- ✨Hands-On C Programming: From Basics to Advanced Applications
+
+- ✨Mastering Machine Learning: Algorithms, Techniques, and Hands-On Projects
+
+- ✨R for Beginners: A Comprehensive Introduction to Programming
+
 
 
 Contact us,
